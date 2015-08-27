@@ -1,1 +1,0 @@
-images are placed here by [project root]/lib/downloadDragoon.js

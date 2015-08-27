@@ -1,1 +1,0 @@
-$("#state").html("<p>Loading stuff</p>");

@@ -1,1 +1,0 @@
-I included the LeagueJs lib by matthewferderber (https://github.com/matthewferderber/LeagueJS) because the lib of the same name in npm (https://github.com/claudiowilson/LeagueJS/) isn't up to date with Riot's api 
