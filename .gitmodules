@@ -1,3 +1,6 @@
 [submodule "projects/ld33"]
 	path = projects/ld33
 	url = https://github.com/teamrpc/ld33
+[submodule "projects/guess-that-champion"]
+	path = projects/guess-that-champion
+	url = https://github.com/insanity54/guess-that-champion
