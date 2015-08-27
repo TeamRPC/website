@@ -1,4 +1,4 @@
-[submodule "guess-that-champion"]
+[submodule "projects/guess-that-champion"]
 	path = projects/guess-that-champion
 	url = https://github.com/insanity54/guess-that-champion
 [submodule "projects/ld33"]
