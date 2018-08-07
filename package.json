@@ -12,13 +12,14 @@
     "url": "https://github.com/TeamRPC/website"
   },
   "author": "Chris Grimmett <chris@grimtech.net>",
-  "license": "MIT",
+  "license": "Unlicense",
   "bugs": {
     "url": "https://github.com/TeamRPC/website/issues"
   },
   "homepage": "https://github.com/TeamRPC/website",
   "dependencies": {
     "express": "^4.12.3",
+    "github-fork-ribbon-css": "^0.2.1",
     "nconf": "^0.7.1"
   }
 }
